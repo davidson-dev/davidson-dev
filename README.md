@@ -17,17 +17,15 @@ Expert in automating workflows and integrating platforms with modern tech.
 | # | Project Description | Tech Focus | Repository Link |
 |---|---------|------------|----------------|
 | 1 | Scalable Task Management API with Django & AWS | (Python + Django + PostgreSQL + AWS) | [TaskManagerAPI](https://github.com/davidson-dev/django-aws-task) |
-<!--
-| 2 | Unified User Identity and Privacy Platform | Backend Engineer (User Trust / Serverless) | [UserIdentityPlatform](./UserIdentityPlatform) |
-| 3 | Inventory Optimization & Order Fulfillment Microservice | Senior Python Engineer (Supply Chain) | [InventoryMicroservice](./InventoryMicroservice) |
-| 4 | Customer Retention Prediction & Attribution Dashboard | Data Scientist (AI Video Agent) | [RetentionDashboard](./RetentionDashboard) |
-| 5 | Video-to-Text AI Agent for Scene Understanding | AI Engineer (LLM + Video Understanding) | [VideoAI](./VideoAI) |
-| 6 | Real-Time Product Recommendation System | Machine Learning Engineer | [RecommenderSystem](./RecommenderSystem) |
-| 7 | Serverless File Processing Pipeline | Python Developer (AWS Lambda + Event-Driven) | [ServerlessFilePipeline](./ServerlessFilePipeline) |
-| 8 | FastAPI Backend for Financial Portfolio Management | Python Developer (Backend + APIs + Cloud) | [PortfolioAPI](./PortfolioAPI) |
+| 2 | Unified User Identity and Privacy Platform | (User Trust / Serverless) | Coming soon... |
+| 3 | Inventory Optimization & Order Fulfillment Microservice | Microservices | Coming soon... |
+| 4 | Customer Retention Prediction & Attribution Dashboard | Data Science (AI Video Agent) | Coming soon... |
+| 5 | Video-to-Text AI Agent for Scene Understanding | AI (LLM + Video Understanding) | Coming soon... |
+| 6 | Real-Time Product Recommendation System | Machine Learning | Coming soon... |
+| 7 | Serverless File Processing Pipeline | AWS-based (AWS Lambda + Event-Driven) | Coming soon... |
+| 8 | FastAPI Backend for Financial Portfolio Management | Distributed Systems (Backend + APIs + Cloud) | Coming soon... |
   
 ---
--->
 
 ### 🤖 AI Code Assistant/LLMs:
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=flat&logo=openai&logoColor=white)
