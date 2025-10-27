@@ -11,12 +11,13 @@ Expert in automating workflows and integrating platforms with modern tech.
 - 👯 Looking to collaborate on automating life through code, so people can spend more time with their families.
 
 ---
-<!--
+
 ## 🗂️ Projects Index
 
 | # | Project | Role Focus | Repository Link |
 |---|---------|------------|----------------|
-| 1 | Scalable Task Management API with Django & AWS | Backend Engineer (Python + Django + PostgreSQL + AWS) | [TaskManagerAPI](./TaskManagerAPI) |
+| 1 | Scalable Task Management API with Django & AWS | Backend Engineer (Python + Django + PostgreSQL + AWS) | [TaskManagerAPI](./django-aws-task) |
+<!--
 | 2 | Unified User Identity and Privacy Platform | Backend Engineer (User Trust / Serverless) | [UserIdentityPlatform](./UserIdentityPlatform) |
 | 3 | Inventory Optimization & Order Fulfillment Microservice | Senior Python Engineer (Supply Chain) | [InventoryMicroservice](./InventoryMicroservice) |
 | 4 | Customer Retention Prediction & Attribution Dashboard | Data Scientist (AI Video Agent) | [RetentionDashboard](./RetentionDashboard) |
