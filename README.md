@@ -16,7 +16,7 @@ Expert in automating workflows and integrating platforms with modern tech.
 
 | # | Project | Role Focus | Repository Link |
 |---|---------|------------|----------------|
-| 1 | Scalable Task Management API with Django & AWS | Backend Engineer (Python + Django + PostgreSQL + AWS) | [TaskManagerAPI](./django-aws-task) |
+| 1 | Scalable Task Management API with Django & AWS | Backend Engineer (Python + Django + PostgreSQL + AWS) | [TaskManagerAPI](https://github.com/davidson-dev/django-aws-task) |
 <!--
 | 2 | Unified User Identity and Privacy Platform | Backend Engineer (User Trust / Serverless) | [UserIdentityPlatform](./UserIdentityPlatform) |
 | 3 | Inventory Optimization & Order Fulfillment Microservice | Senior Python Engineer (Supply Chain) | [InventoryMicroservice](./InventoryMicroservice) |
