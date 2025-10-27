@@ -11,6 +11,22 @@ Expert in automating workflows and integrating platforms with modern tech.
 - 👯 Looking to collaborate on automating life through code, so people can spend more time with their families.
 
 ---
+<!--
+## 🗂️ Projects Index
+
+| # | Project | Role Focus | Repository Link |
+|---|---------|------------|----------------|
+| 1 | Scalable Task Management API with Django & AWS | Backend Engineer (Python + Django + PostgreSQL + AWS) | [TaskManagerAPI](./TaskManagerAPI) |
+| 2 | Unified User Identity and Privacy Platform | Backend Engineer (User Trust / Serverless) | [UserIdentityPlatform](./UserIdentityPlatform) |
+| 3 | Inventory Optimization & Order Fulfillment Microservice | Senior Python Engineer (Supply Chain) | [InventoryMicroservice](./InventoryMicroservice) |
+| 4 | Customer Retention Prediction & Attribution Dashboard | Data Scientist (AI Video Agent) | [RetentionDashboard](./RetentionDashboard) |
+| 5 | Video-to-Text AI Agent for Scene Understanding | AI Engineer (LLM + Video Understanding) | [VideoAI](./VideoAI) |
+| 6 | Real-Time Product Recommendation System | Machine Learning Engineer | [RecommenderSystem](./RecommenderSystem) |
+| 7 | Serverless File Processing Pipeline | Python Developer (AWS Lambda + Event-Driven) | [ServerlessFilePipeline](./ServerlessFilePipeline) |
+| 8 | FastAPI Backend for Financial Portfolio Management | Python Developer (Backend + APIs + Cloud) | [PortfolioAPI](./PortfolioAPI) |
+  
+---
+-->
 
 ### 🤖 AI Code Assistant/LLMs:
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=flat&logo=openai&logoColor=white)
